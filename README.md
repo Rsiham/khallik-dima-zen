@@ -1,37 +1,34 @@
-# 👋 Bonjour, je suis Siham Rafai
 
-Développeuse d'applications mobiles et web.
+# 📱 Khallik Dima Zen
 
-## 🎓 Formation
+Application Android de développement personnel en Darija.
 
-- Programme 0810 TI - TÉLUQ
-- AEC Développement d'applications mobiles
+## 🎯 Objectif
 
-## 💻 Compétences
+Aider les utilisateurs à recevoir quotidiennement des messages positifs et motivants dans leur langue.
 
-- Kotlin
-- Java
-- Android
-- Spring Boot
-- SQL
-- Git
-- Python
-
-## 🚀 Projet
-
-### Khallik Dima Zen
-
-Application Android de citations positives en Darija.
-
-Fonctionnalités :
+## ✨ Fonctionnalités
 
 - Citation du jour
 - Favoris
-- Partage
+- Partage sur les réseaux sociaux
 - Notifications quotidiennes
+- Interface moderne et apaisante
 
-Technologies :
+## 🛠️ Technologies
 
 - Kotlin
 - Android Studio
 - Room Database
+- MVVM
+
+## 📚 Compétences démontrées
+
+- Développement Android natif
+- Gestion de données locales
+- Architecture MVVM
+- Interface utilisateur mobile
+
+## 🚧 État du projet
+
+En développement.
